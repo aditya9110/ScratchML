@@ -1,0 +1,19 @@
+Weather,Time of Week,Time of day,Traffic Jam
+Clear,Workday,Morning,Yes
+Clear,Workday,Lunch,No
+Clear,Workday,Evening,Yes
+Clear,Weekend,Morning,No
+Clear,Weekend,Lunch,No
+Clear,Weekend,Evening,No
+Rainy,Workday,Morning,Yes
+Rainy,Workday,Lunch,Yes
+Rainy,Workday,Evening,Yes
+Rainy,Weekend,Morning,No
+Rainy,Weekend,Lunch,No
+Rainy,Weekend,Evening,No
+Snowy,Workday,Morning,Yes
+Snowy,Workday,Lunch,Yes
+Snowy,Workday,Evening,Yes
+Snowy,Weekend,Morning,Yes
+Snowy,Weekend,Lunch,No
+Snowy,Weekend,Evening,Yes

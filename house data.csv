@@ -1,0 +1,11 @@
+Type of family structure,Age group,Income status,Buy House?
+Nuclear,Young,Low,Yes
+Extended,Old,Low,No
+Childless,Middle-aged,Low,No
+Childless,Young,Medium,Yes
+Single Parent,Middle-aged,Medium,Yes
+Childless,Young,Low,No
+Nuclear,Old,High,Yes
+Nuclear,Middle-aged,Medium,Yes
+Extended,Middle-aged,High,Yes
+Single Parent,Old,Low,No
