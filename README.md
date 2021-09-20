@@ -2,14 +2,14 @@
 
 The repository is created with an intention to demonstrate different Machine Learning Algorithms from scratch. The intutions behind the algorithms and how the internal works is the main aim to learn while coding and understanding these algorithms.
 
-- Linear Regression
-- K Nearest Neighbors
-- K Means Clustering
-- Naive Bayes Classification
-- Apriori Association
-- Support Vector Machine
-- HITS Algorithm
-- Page Rank Algorithm
+- [x] Linear Regression
+- [x] K Nearest Neighbors
+- [x] K Means Clustering
+- [x] Naive Bayes Classification
+- [x] Apriori Association
+- [x] Support Vector Machine
+- [x] HITS Algorithm
+- [x] Page Rank Algorithm
 
 
 **Upcoming Updates:**
