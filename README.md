@@ -13,7 +13,7 @@ The repository is created with an intention to demonstrate different Machine Lea
 
 
 **Upcoming Updates:**
-- [] Logistic Regression
-- [] Decision Tree
-- [] Random Forest
-- [] Ensemble Methods
+- [ ] Logistic Regression
+- [ ] Decision Tree
+- [ ] Random Forest
+- [ ] Ensemble Methods
