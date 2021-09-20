@@ -10,3 +10,10 @@ The repository is created with an intention to demonstrate different Machine Lea
 - Support Vector Machine
 - HITS Algorithm
 - Page Rank Algorithm
+
+
+**Upcoming Updates:**
+- [] Logistic Regression
+- [] Decision Tree
+- [] Random Forest
+- [] Ensemble Methods
