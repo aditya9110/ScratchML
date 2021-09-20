@@ -1,6 +1,6 @@
 # ScratchML
 
-The repository is created with an intention to demonstrate different Machine Learning Algorithms from scratch. The intutions behind the algorithms and how the internal works is the main aim to learn while coding and understanding these algorithms.
+The repository is created with an intention to demonstrate different Machine Learning Algorithms from scratch. The intuitions behind the algorithms and how the internal works is the main aim to learn while coding and understanding these programs.
 
 - [x] Linear Regression
 - [x] K Nearest Neighbors
